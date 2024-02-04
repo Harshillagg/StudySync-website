@@ -133,6 +133,7 @@ body{
     padding: 0.6rem;
     align-items: center;
     margin: 0 auto;
+    justify-content: center;
 }
 
 .content-left{
